@@ -20,6 +20,10 @@ public class E extends null implements F {
         return new java.util.Random();
     }
 
+    public void aa() {
+        System.out.println("void aa");
+    }
+
     public byte oo() {
         return 3;
     }
@@ -28,11 +32,19 @@ public class E extends null implements F {
         return 99999;
     }
 
-    public void aa() {
-        System.out.println("void aa");
-    }
-
     public int hh() {
         return new java.util.Random(10).nextInt(10);
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
     }
 }

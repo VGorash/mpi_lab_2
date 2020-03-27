@@ -28,6 +28,10 @@ public class G extends null implements A, F {
         return new java.util.Random();
     }
 
+    public int cc() {
+        return 42;
+    }
+
     public long dd() {
         return 33;
     }
@@ -40,7 +44,19 @@ public class G extends null implements A, F {
         return 333;
     }
 
-    public int cc() {
-        return 42;
+    public double ee() {
+        return 500.100;
+    }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
     }
 }
