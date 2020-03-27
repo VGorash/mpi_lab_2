@@ -1,4 +1,4 @@
-public class G implements A, F {
+public class G extends null implements A, F {
 
     private byte f = 1;
 
@@ -34,5 +34,17 @@ public class G implements A, F {
 
     public Object gg() {
         return new java.util.Random();
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public double ee() {
+        return 500.100;
     }
 }
