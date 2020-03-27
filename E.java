@@ -23,4 +23,8 @@ public class E implements F {
     public long dd() {
         return 99999;
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
 }

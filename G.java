@@ -31,4 +31,8 @@ public class G implements A, F {
     public long dd() {
         return 33;
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }
