@@ -1,0 +1,22 @@
+public class E implements F {
+
+    private double h = 100.500;
+
+    private long g = 1234;
+
+    public int af() {
+        return -1;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+}
