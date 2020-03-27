@@ -19,8 +19,4 @@ public class E implements F {
     public java.util.Random mm() {
         return new java.util.Random();
     }
-
-    public long dd() {
-        return 99999;
-    }
 }
