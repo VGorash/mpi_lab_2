@@ -27,16 +27,4 @@ public class G implements A, F {
     public java.util.Random mm() {
         return new java.util.Random();
     }
-
-    public long dd() {
-        return 33;
-    }
-
-    public Object gg() {
-        return new java.util.Random();
-    }
-
-    public long ac() {
-        return 333;
-    }
 }
