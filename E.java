@@ -47,4 +47,8 @@ public class E extends null implements F {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public void ab() {
+        return;
+    }
 }

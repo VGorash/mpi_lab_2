@@ -59,4 +59,8 @@ public class G extends null implements A, F {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
+
+    public void ab() {
+        System.out.println("\n");
+    }
 }
