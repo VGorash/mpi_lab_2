@@ -43,8 +43,4 @@ public class G extends null implements A, F {
     public int cc() {
         return 42;
     }
-
-    public double ee() {
-        return 500.100;
-    }
 }
