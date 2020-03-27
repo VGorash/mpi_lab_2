@@ -27,4 +27,8 @@ public class E implements F {
     public void aa() {
         System.out.println("void aa");
     }
+
+    public byte oo() {
+        return 3;
+    }
 }

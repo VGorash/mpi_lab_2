@@ -35,4 +35,8 @@ public class G implements A, F {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public long ac() {
+        return 333;
+    }
 }
